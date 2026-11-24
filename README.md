@@ -1,17 +1,17 @@
-# About Me
-A short blurb about me with links
+# Christopher Likins
 
-Fresh off of finishing a bachelor’s degree in Software Development where I completed 23 college courses in less than six months I am now aggressively job hunting exclusively in Denmark. To keep my skills sharp, I am going to build a mobile app in C# and then eventually create a web app in REACT after I learn how to build a GraphQL api for the SQL database I am designing. I am calling it The Library Steps. I want an application where I can keep track of and recommend galleries, museums, and cultural sites as a way to find new places to explore and get exposure for smaller facilities that may get less exposure.
+Business systems architect in Copenhagen. I work on AI adoption, CRM–ERP integration and transformation: getting processes, people and systems to work together so the real work can happen.
 
-I just finished deployment of the online presence for Coyote and Crow LLC where I planned, styled, and implemented a solution that includes WordPress, MediaWiki, PHPBB, Shopify, and a name generator in the Chahi language that uses a Markov Algorithm and principals of natural language generation to create new words that follow the phonetic structures of the language.
+## What I'm working on
 
-To learn more:
-https://cmlikins.com
-https://linkedin.com/in/cmlikins
+Two free skills for Claude, built from custom GPTs I used to run. Both are free to download from their Releases pages, and feedback is welcome.
 
-Coyote And Crow LLC
-https://coyoteandcrow.net
-https://coyoteandcrow.net/wiki
-https://coyoteandcrow.net/forum
-https://shop.coyoteandcrow.net
-https://coyoteandcrow.net/chahi-name/
+**[Sophia](https://github.com/christopherlikins/sophia-job-search-mentor)** is a job-search and career-strategy mentor, calibrated for Copenhagen and Denmark.
+
+**[Praxis](https://github.com/christopherlikins/praxis-cipm-study-companion)** is an unofficial study companion for experienced privacy professionals preparing for the CIPM exam.
+
+## Elsewhere
+
+Portfolio: [cmlikins.com](https://cmlikins.com)
+
+LinkedIn: [in/cmlikins](https://linkedin.com/in/cmlikins)
